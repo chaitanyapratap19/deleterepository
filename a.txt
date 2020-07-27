@@ -1,1 +1,2 @@
-i am a.txt file created in remote repository
+changed i am a.txt file created 
+second line added in b1 branch
