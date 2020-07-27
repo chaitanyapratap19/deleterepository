@@ -1,2 +1,2 @@
-first line i have completely changed
+completyely changed first line
 second line added in b1 branch
