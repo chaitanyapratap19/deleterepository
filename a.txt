@@ -1,10 +1,12 @@
 new line
+stash1
 stash
 And line added in b1 branch
 stash
 this is third line
 stash
 this is fourth line
+stash1
 this is fifth line. fdsfd fregf rgrg
 this is sixth line
 ff fef fef efef erfre 
