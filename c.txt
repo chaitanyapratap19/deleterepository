@@ -1,4 +1,2 @@
 this is c.txt file
 added in master
-this is line 3
-this is line 4
